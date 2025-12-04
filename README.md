@@ -1,77 +1,57 @@
-<h1 align="center">Hi 🤗❤️, I'm ThevinduDha</h1>
-<h3 align="center">A Passionate Developer from Sri Lanka</h3>
-
+<!-- =======================
+🔥 3D ANIMATED BANNER
+======================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thevindudha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/oreoturtles/animated-github-banner/main/cyber-banner.gif" width="100%" alt="3D Banner"/>
 </p>
 
-<p align="center">
+<!-- =======================
+👋 INTRO (Typing Animation)
+======================= -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+ThevinduDha;Java+Developer+☕;Backend+Enthusiast;From+Sri+Lanka+🇱🇰;Welcome+to+my+GitHub+Profile!" />
+</div>
+
+<br>
+
+<!-- =======================
+🔥 SOCIAL BADGES WITH GLOW
+======================= -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thevindudha&color=8A2BE2&style=flat-square" />
+
+  <br><br>
+
   <a href="https://twitter.com/thevinduhansaja" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/thevinduhansaja?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+      <img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</p>
+  <a href="https://instagram.com/officialthenx03" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:thevinduhansaja81@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## 🔥 About Me
-- 🌱 I’m currently learning **Java**
-- 🎯 Dreaming big and building daily
-- 📫 Reach me at **thevinduhansaja81@gmail.com**
+<!-- =======================
+✨ WAVE DIVIDER
+======================= -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ---
 
-## 🔗 Connect with Me
-<p align="left">
-<a href="https://twitter.com/thevinduhansaja" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" />
-</a>
-<a href="https://instagram.com/officialthenx03" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30" />
-</a>
-</p>
+# ⚡ About Me
 
----
+```java
+public class ThevinduDha {
+    public static void main(String[] args) {
+        String language = "Java";
+        String passion = "Building backend systems";
+        String motto = "Dream big. Build daily.";
+        
+        System.out.println("Hello World 👋, I am Thevindu!");
+    }
+}
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thevindudha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevindudha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thevindudha&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Fun Quote
-<p align="center"><i>"Code. Debug. Improve. Repeat — Great things take time."</i></p>
-
----
