@@ -48,11 +48,18 @@ public class ThevinduDha {
 
 <br>
 
+<h2 align="center">🏆 Achievements</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thevindudha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<br>
+
 <h2 align="center">🛠 Languages & Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,git,github,mysql,html,css,js,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,git,github,mysql,postgres,html,css,js,vscode,docker&theme=dark" />
   </a>
 </p>
 
@@ -79,4 +86,3 @@ public class ThevinduDha {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 </p>
-
