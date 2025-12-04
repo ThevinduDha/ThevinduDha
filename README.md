@@ -55,3 +55,11 @@ public class ThevinduDha {
     }
 }
 
+🚀 Tech Stack (Neon Icons)
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mongodb,git,github" height="55"/> </p>
+
+📊 GitHub Analytics 
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=thevindudha&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevindudha&layout=compact&theme=radical&hide_border=true&bg_color=00000000"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevindudha&theme=radical&hide_border=true&background=00000000"/> </div>
+
+
+
