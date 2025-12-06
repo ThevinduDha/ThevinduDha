@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Thevindu Dharmadasa;Java+Developer+☕;Backend+Enthusiast;From+Sri+Lanka+🇱🇰;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Thevindu;Java+Developer+☕;Backend+Enthusiast;From+Sri+Lanka+🇱🇰;Welcome+to+my+GitHub+Profile!" />
 </div>
 
 <div align="center">
