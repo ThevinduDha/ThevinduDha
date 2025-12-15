@@ -24,10 +24,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
----
-
 <h2 align="center">⚡ About Me</h2>
 
 <div align="center">
@@ -44,7 +40,6 @@ public class ThevinduDha {
 }
 </div>
 <h2 align="center">🏆 Achievements</h2> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=thevindudha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /> </div>
-<h2 align="center">🛠 Languages & Tools</h2><p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,idea,git,github,mysql,postgres,html,css,js,vscode,docker&theme=dark" /> </a> </p><p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"> </p>
-
+<h2 align="center">🛠 Languages & Tools</h2><p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,idea,git,github,mysql,postgres,html,css,js,vscode,docker&theme=dark" /> </a> </p>
 <h2 align="center">📈 GitHub Analytics</h2><div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thevindudha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevindudha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevindudha&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/> </div><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/> </p> ```
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevindudha&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/> </div> ```
