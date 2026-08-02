@@ -3,11 +3,13 @@
   
   <br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Thevindu;Java+Developer+☕;Backend+Enthusiast;From+Sri+Lanka+🇱🇰;Welcome+to+my+GitHub+Profile!" />
+  <a href="https://github.com/thevindudha">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Thevindu;Java+Developer+☕;Backend+Enthusiast+🚀;From+Sri+Lanka+🇱🇰;Welcome+to+my+GitHub+Profile!✨" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thevindudha&color=8A2BE2&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=thevindudha&label=Profile%20Views&color=8A2BE2&style=for-the-badge&logo=github" alt="Profile Views" />
   
   <br><br>
 
@@ -17,27 +19,32 @@
   <a href="https://instagram.com/officialthenx03" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="www.linkedin.com/in/thevindu-hansaja" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:thevinduhansaja81@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
----
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+<br>
 
-<h2 align="center">⚡ About Me</h2>
-
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <td width="60%">
+      <h2 align="center">⚡ About Me</h2>
+      
 ```java
 public class ThevinduDha {
     public static void main(String[] args) {
         String language = "Java";
-        String passion = "Building backend systems";
-        String motto = "Dream big. Build daily.";
+        String passion = "Building scalable backend systems";
+        String motto = "Dream big. Build daily. 🚀";
         
         System.out.println("Hello World 👋, I am Thevindu!");
+        System.out.println("Currently brewing code & coffee ☕");
     }
 }
 ```
