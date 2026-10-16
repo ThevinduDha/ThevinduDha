@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:7928CA,100:00DFD8&height=220&section=header&text=THEVINDU%20DHARMADASA&fontSize=42&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%E2%80%A2%20AI%20%2F%20ML%20Developer%20%E2%80%A2%20Full-Stack%20Engineer&descSize=17&descAlignY=60&fontColor=ffffff" width="100%" alt="Thevindu Dharmadasa Header Banner" />
+  <!-- Professional Animated Cyber Banner -->
+  <img src="https://raw.githubusercontent.com/ThevinduDha/ThevinduDha/main/assets/banner.svg" width="100%" alt="Thevindu Dharmadasa Professional Developer Banner" />
 
   <!-- Animated Typing Subheading -->
   <a href="https://github.com/ThevinduDha">
