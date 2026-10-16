@@ -186,18 +186,48 @@ class ThevinduDharmadasa:
 
 ---
 
-## 🐍 Contribution Journey & Activity Snake
+---
 
-<p align="center">
-  <i>Watch the snake slither through and eat my GitHub contribution history! 🎮</i>
-</p>
+## 🐍 GitHub Contribution Arcade
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThevinduDha/ThevinduDha/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThevinduDha/ThevinduDha/output/github-contribution-grid-snake.svg">
-    <img alt="Thevindu's GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/ThevinduDha/ThevinduDha/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <table border="0" width="100%">
+    <thead>
+      <tr>
+        <th align="center" colspan="3">
+          🕹️ <b>THE SNAKE EATER: LIVE ACTIVITY SIMULATOR</b> 🕹️
+        </th>
+      </tr>
+      <tr>
+        <td align="center" colspan="3">
+          <p align="center">
+            <img src="https://img.shields.io/badge/Player-ThevinduDha-00DFD8?style=flat-square&logo=github&logoColor=black" alt="Player" />
+            <img src="https://img.shields.io/badge/Game_Mode-Endless_Commits-7928CA?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Mode" />
+            <img src="https://img.shields.io/badge/Speed-60_FPS_Vector-39D353?style=flat-square&logo=speedtest&logoColor=black" alt="Speed" />
+            <img src="https://img.shields.io/badge/Status-Slithering_%26_Eating_%F0%9F%9F%A2-FF5722?style=flat-square" alt="Status" />
+          </p>
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" colspan="3">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThevinduDha/ThevinduDha/output/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThevinduDha/ThevinduDha/output/github-contribution-grid-snake.svg">
+            <img alt="Thevindu's GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/ThevinduDha/ThevinduDha/output/github-contribution-grid-snake-dark.svg" width="100%" />
+          </picture>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="3">
+          <p align="center">
+            <i>⚡ The snake autonomously navigates through my GitHub activity, devouring every contribution dot in an infinite loop! 🎮</i>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
