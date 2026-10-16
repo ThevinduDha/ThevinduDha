@@ -1,0 +1,153 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <radialGradient id="footerBg" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#141B2D" />
+      <stop offset="50%" stop-color="#0B0F19" />
+      <stop offset="100%" stop-color="#05070B" />
+    </radialGradient>
+
+    <!-- Neon Glow Filters -->
+    <filter id="glowCyanFooter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="glowPurpleFooter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Linear Gradients -->
+    <linearGradient id="footerTextGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="35%" stop-color="#A5F3FC" />
+      <stop offset="70%" stop-color="#00DFD8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+
+    <linearGradient id="footerBorderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7928CA" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#2563EB" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#00DFD8" stop-opacity="0.9" />
+    </linearGradient>
+
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7928CA" stop-opacity="0" />
+      <stop offset="25%" stop-color="#7928CA" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#00DFD8" stop-opacity="1" />
+      <stop offset="75%" stop-color="#7928CA" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#7928CA" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="footerGridGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00DFD8" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#00DFD8" stop-opacity="0.01" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="footerGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="url(#footerGridGrad)" stroke-width="0.75" />
+      <circle cx="40" cy="40" r="1" fill="#00DFD8" fill-opacity="0.2" />
+    </pattern>
+
+    <!-- Ambient Orbs -->
+    <radialGradient id="footerOrbPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7928CA" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#7928CA" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="footerOrbCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00DFD8" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#00DFD8" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    .font-mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace; }
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif; }
+
+    @keyframes pulseFooterOrb {
+      0%, 100% { transform: scale(1); opacity: 0.7; }
+      50% { transform: scale(1.15); opacity: 1; }
+    }
+    @keyframes blinkPulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.35; }
+    }
+
+    .footer-orb { animation: pulseFooterOrb 7s ease-in-out infinite alternate; transform-origin: center; }
+    .blink-status { animation: blinkPulse 2s ease-in-out infinite; }
+  </style>
+
+  <!-- Base Card Background -->
+  <rect width="1200" height="180" rx="16" fill="url(#footerBg)" />
+
+  <!-- Ambient Glowing Orbs -->
+  <circle cx="200" cy="90" r="140" fill="url(#footerOrbPurple)" class="footer-orb" />
+  <circle cx="1000" cy="90" r="150" fill="url(#footerOrbCyan)" class="footer-orb" />
+
+  <!-- High-Tech Cyber Grid Background -->
+  <rect width="1200" height="180" rx="16" fill="url(#footerGrid)" />
+
+  <!-- Card Border with Neon Stroke -->
+  <rect x="1" y="1" width="1198" height="178" rx="15" fill="none" stroke="url(#footerBorderGrad)" stroke-width="1.5" />
+
+  <!-- Top Laser Accent Line -->
+  <line x1="150" y1="2" x2="1050" y2="2" stroke="url(#laserGrad)" stroke-width="2.5" filter="url(#glowCyanFooter)" />
+
+  <!-- Corner HUD Accents -->
+  <path d="M 20 30 L 20 18 L 32 18" stroke="#00DFD8" stroke-width="2" stroke-linecap="round" fill="none" filter="url(#glowCyanFooter)" />
+  <path d="M 1180 30 L 1180 18 L 1168 18" stroke="#7928CA" stroke-width="2" stroke-linecap="round" fill="none" filter="url(#glowPurpleFooter)" />
+  <path d="M 20 150 L 20 162 L 32 162" stroke="#7928CA" stroke-width="2" stroke-linecap="round" fill="none" filter="url(#glowPurpleFooter)" />
+  <path d="M 1180 150 L 1180 162 L 1168 162" stroke="#00DFD8" stroke-width="2" stroke-linecap="round" fill="none" filter="url(#glowCyanFooter)" />
+
+  <!-- ================= CORE CONTENT ================= -->
+  <!-- Top Tagline Badge -->
+  <g transform="translate(600, 36)">
+    <rect x="-175" y="-12" width="350" height="24" rx="12" fill="#0F172A" stroke="#7928CA" stroke-opacity="0.5" stroke-width="1" />
+    <text x="0" y="4" text-anchor="middle" fill="#00DFD8" font-size="11" class="font-mono" font-weight="700" letter-spacing="2">
+      ⚡ DREAM BIG &#160;•&#160; BUILD DAILY &#160;•&#160; INNOVATE ALWAYS ⚡
+    </text>
+  </g>
+
+  <!-- Big Catchphrase -->
+  <text x="600" y="86" text-anchor="middle" fill="url(#footerTextGrad)" font-size="24" class="font-sans" font-weight="800" letter-spacing="1.5" filter="url(#glowCyanFooter)">
+    Let&#39;s Engineer Intelligent, Scalable &amp; Beautiful Tech Together
+  </text>
+
+  <!-- Subtitle Quote -->
+  <text x="600" y="116" text-anchor="middle" fill="#94A3B8" font-size="13" class="font-mono" font-weight="500" letter-spacing="1">
+    Turning complex datasets into actionable intelligence and high-performance software architectures.
+  </text>
+
+  <!-- Separator Line -->
+  <line x1="200" y1="135" x2="1000" y2="135" stroke="url(#laserGrad)" stroke-width="1" stroke-opacity="0.6" />
+
+  <!-- Bottom Telemetry Bar -->
+  <g transform="translate(600, 156)">
+    <!-- Left: Status Indicator -->
+    <g transform="translate(-400, 0)">
+      <circle cx="-10" cy="-3" r="3.5" fill="#10B981" class="blink-status" filter="url(#glowCyanFooter)" />
+      <text x="0" y="0" fill="#10B981" font-size="10.5" class="font-mono" font-weight="700" letter-spacing="1">
+        OPEN TO COLLABORATION &amp; OPPORTUNITIES
+      </text>
+    </g>
+
+    <!-- Center: Star CTA -->
+    <text x="0" y="0" text-anchor="middle" fill="#CBD5E1" font-size="11" class="font-sans" font-weight="600">
+      ⭐️ Star my repos if you find my projects impactful!
+    </text>
+
+    <!-- Right: Signature -->
+    <text x="400" y="0" text-anchor="end" fill="#64748B" font-size="10.5" class="font-mono" letter-spacing="1">
+      © THEVINDU DHARMADASA &#160;•&#160; SRI LANKA 🇱🇰
+    </text>
+  </g>
+</svg>

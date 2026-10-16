@@ -290,10 +290,6 @@ class ThevinduDharmadasa:
 
   <br><br>
 
-  <!-- Waving Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:7928CA,100:00DFD8&height=120&section=footer" width="100%" alt="Footer Banner" />
-
-  <p align="center">
-    <i>⭐️ Star my repositories if you find my work helpful! Crafted with ❤️ by Thevindu Dharmadasa</i>
-  </p>
+  <!-- Professional Matching Cyber Footer Banner -->
+  <img src="https://raw.githubusercontent.com/ThevinduDha/ThevinduDha/main/assets/footer.svg" width="100%" alt="Thevindu Dharmadasa Footer Banner" />
 </div>
