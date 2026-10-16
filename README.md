@@ -3,15 +3,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:7928CA,40:4A00E0,80:0070F3,100:00DFD8&height=220&section=header&text=THEVINDU%20DHARMADASA&fontSize=42&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%E2%80%A2%20AI%20%26%20ML%20Developer%20%E2%80%A2%20Full-Stack%20Engineer&descSize=17&descAlignY=60&fontColor=ffffff&theme=dark" width="100%" alt="Thevindu Dharmadasa Header Banner" />
 
   <!-- Animated Typing Subheading -->
-  <a href="https://github.com/thevindudha">
+  <a href="https://github.com/ThevinduDha">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00DFD8&background=0D111700&center=true&vCenter=true&width=780&height=50&lines=%F0%9F%91%8B+Hey+there!+I'm+Thevindu+Dharmadasa;%F0%9F%93%8A+Data+Science+Undergraduate+%26+Analyst;%F0%9F%A4%96+Machine+Learning+%26+Deep+Learning+Enthusiast;%F0%9F%92%BB+Full-Stack+Developer+%26+Software+Engineer;%E2%9A%A1+Aspiring+Data+Engineer+%26+System+Architect;%F0%9F%9A%80+Turning+Raw+Data+into+Intelligent+Solutions!" alt="Typing Animated Header" />
   </a>
 
   <br>
 
+  <!-- 👁️ SPOTLIGHT: Profile Visits Counter -->
+  <p align="center">
+    <a href="https://github.com/ThevinduDha">
+      <img src="https://komarev.com/ghpvc/?username=ThevinduDha&label=%F0%9F%91%81%EF%B8%8F%20PROFILE%20VISITS&color=7928CA&style=for-the-badge&logoColor=white" height="32" alt="Live Profile Visits" />
+    </a>
+  </p>
+
   <!-- Quick Status Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=thevindudha&label=PROFILE+VIEWS&color=7928CA&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Open_For_Opportunities-00D2FF?style=for-the-badge&logo=git&logoColor=black" alt="Status" />
     <img src="https://img.shields.io/badge/Location-Sri_Lanka_%F0%9F%87%B1%F0%9F%87%B0-FF5722?style=for-the-badge" alt="Location" />
     <img src="https://img.shields.io/badge/Focus-AI_%26_Full--Stack-7928CA?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus" />
@@ -22,7 +28,7 @@
     <a href="https://linkedin.com/in/thevindu-hansaja" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/thevindudha" target="_blank">
+    <a href="https://github.com/ThevinduDha" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://twitter.com/thevinduhansaja" target="_blank">
@@ -180,19 +186,35 @@ class ThevinduDharmadasa:
 
 ---
 
+## 🐍 Contribution Journey & Activity Snake
+
+<p align="center">
+  <i>Watch the snake slither through and eat my GitHub contribution history! 🎮</i>
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThevinduDha/ThevinduDha/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThevinduDha/ThevinduDha/output/github-contribution-grid-snake.svg">
+    <img alt="Thevindu's GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/ThevinduDha/ThevinduDha/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 ## 📈 Live GitHub Analytics & Dashboard
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <a href="https://github.com/thevindudha">
-          <img src="https://github-readme-stats.vercel.app/api?username=thevindudha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=7928CA&text_color=E0E6ED" height="190" alt="Thevindu's GitHub Stats" />
+        <a href="https://github.com/ThevinduDha">
+          <img src="https://github-readme-stats.vercel.app/api?username=ThevinduDha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=7928CA&text_color=E0E6ED" height="190" alt="Thevindu's GitHub Stats" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/thevindudha">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevindudha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=E0E6ED" height="190" alt="Thevindu's Most Used Languages" />
+        <a href="https://github.com/ThevinduDha">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevinduDha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=E0E6ED" height="190" alt="Thevindu's Most Used Languages" />
         </a>
       </td>
     </tr>
@@ -201,14 +223,14 @@ class ThevinduDharmadasa:
   <br>
 
   <!-- GitHub Streak Card -->
-  <a href="https://github.com/thevindudha">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevindudha&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=FF5E00&currStreakLabel=00D2FF" alt="Thevindu's GitHub Streak" />
+  <a href="https://github.com/ThevinduDha">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThevinduDha&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=FF5E00&currStreakLabel=00D2FF" alt="Thevindu's GitHub Streak" />
   </a>
 
   <br><br>
 
   <!-- Dynamic Quote Card -->
-  <a href="https://github.com/thevindudha">
+  <a href="https://github.com/ThevinduDha">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Dev Quote" />
   </a>
 </div>
@@ -232,7 +254,7 @@ class ThevinduDharmadasa:
     <img src="https://img.shields.io/badge/Twitter/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="https://github.com/thevindudha">
+  <a href="https://github.com/ThevinduDha">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
