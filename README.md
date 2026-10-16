@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:7928CA,40:4A00E0,80:0070F3,100:00DFD8&height=220&section=header&text=THEVINDU%20DHARMADASA&fontSize=42&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%E2%80%A2%20AI%20%26%20ML%20Developer%20%E2%80%A2%20Full-Stack%20Engineer&descSize=17&descAlignY=60&fontColor=ffffff&theme=dark" width="100%" alt="Thevindu Dharmadasa Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:7928CA,100:00DFD8&height=220&section=header&text=THEVINDU%20DHARMADASA&fontSize=42&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%E2%80%A2%20AI%20%2F%20ML%20Developer%20%E2%80%A2%20Full-Stack%20Engineer&descSize=17&descAlignY=60&fontColor=ffffff" width="100%" alt="Thevindu Dharmadasa Header Banner" />
 
   <!-- Animated Typing Subheading -->
   <a href="https://github.com/ThevinduDha">
@@ -291,7 +291,7 @@ class ThevinduDharmadasa:
   <br><br>
 
   <!-- Waving Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:7928CA,40:4A00E0,80:0070F3,100:00DFD8&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:7928CA,100:00DFD8&height=120&section=footer" width="100%" alt="Footer Banner" />
 
   <p align="center">
     <i>⭐️ Star my repositories if you find my work helpful! Crafted with ❤️ by Thevindu Dharmadasa</i>
